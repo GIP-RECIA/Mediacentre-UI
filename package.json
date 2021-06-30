@@ -26,16 +26,16 @@
     "vue-loader": "^15.9.6"
   },
   "devDependencies": {
-    "@uportal/open-id-connect": "^1.36.0",
-    "@vue/cli-plugin-babel": "^4.5.13",
-    "@vue/cli-plugin-eslint": "^4.5.13",
-    "@vue/cli-service": "^4.5.13",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^7.9.0",
-    "node-sass": "^6.0.0",
-    "sass-loader": "^10.0.0",
-    "vue-template-compiler": "^2.6.12"
+    "@uportal/open-id-connect": "1.36.0",
+    "@vue/cli-plugin-babel": "4.5.13",
+    "@vue/cli-plugin-eslint": "4.5.13",
+    "@vue/cli-service": "4.5.13",
+    "babel-eslint": "10.1.0",
+    "eslint": "6.8.0",
+    "eslint-plugin-vue": "7.9.0",
+    "node-sass": "6.0.0",
+    "sass-loader": "10.2.0",
+    "vue-template-compiler": "2.6.12"
   },
   "postcss": {
     "plugins": {
