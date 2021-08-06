@@ -26,7 +26,7 @@
     "vue-loader": "^15.9.6"
   },
   "devDependencies": {
-    "@uportal/open-id-connect": "^1.36.0",
+    "@uportal/open-id-connect": "1.37.0",
     "@vue/cli-plugin-babel": "^4.5.13",
     "@vue/cli-plugin-eslint": "^4.5.13",
     "@vue/cli-service": "^4.5.13",
